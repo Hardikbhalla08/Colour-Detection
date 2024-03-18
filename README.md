@@ -1,4 +1,4 @@
-# 🌈 Color Picker Tool
+# 🌈 Color Detection Tool
 This Python script allows you to identify colors in an image by clicking on them. It displays the color name and RGB values of the clicked pixel.
 
 ## 🚀 How to Use
